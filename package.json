@@ -6,12 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
-	},
+  },
   "author": "prastham",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "request": "^2.72.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prastham/fbbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prastham/fbbot/issues"
+  },
+  "homepage": "https://github.com/prastham/fbbot#readme"
 }
